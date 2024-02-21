@@ -1,9 +1,14 @@
 [![MasterHead](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)]
 
+
 <h1 align="center">Hi 👋, I'm Avantika Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="right"> <img src="https://media.istockphoto.com/id/1305858007/vector/programming-concept-woman-programmer-make-site-or-web-interface-project-female-character.jpg?s=612x612&w=0&k=20&c=6PUktIRwgZrTufbvht5_VI0iVFFBFTCd7Wu1Kb6qRY8=" alt="avantikapal" /> </p>
+<img align= "right" alt= "Coding" width= "400" src= "https://media.istockphoto.com/id/
+1305858007/vector/programming-concept-woman-programmer-make-site-or-web-interface-
+project-female-character.jpg?s=612x612&w=0&k=20&c=6PUktIRwgZrTufbvht5_VI0iVFFBFTCd7Wu1Kb6qRY8="
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avantikapal&label=Profile%20views&color=0e75b6&style=flat" alt="avantikapal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
