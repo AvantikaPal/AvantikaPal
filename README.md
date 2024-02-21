@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Avantika Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://media.istockphoto.com/id/1305858007/vector/programming-concept-woman-programmer-make-site-or-web-interface-project-female-character.jpg?s=612x612&w=0&k=20&c=6PUktIRwgZrTufbvht5_VI0iVFFBFTCd7Wu1Kb6qRY8=" alt="avantikapal" /> </p>
+<p align="right"> <img src="https://media.istockphoto.com/id/1305858007/vector/programming-concept-woman-programmer-make-site-or-web-interface-project-female-character.jpg?s=612x612&w=0&k=20&c=6PUktIRwgZrTufbvht5_VI0iVFFBFTCd7Wu1Kb6qRY8=" alt="avantikapal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
